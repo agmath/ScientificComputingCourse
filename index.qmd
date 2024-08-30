@@ -3,9 +3,10 @@ title: "SC2XX: Scientific Computing"
 format: 
     html: default
     pdf: default
+jupyter: python3
 theme: flatly
 toc: true
-date: August 39,  2024
+date: August 30, 2024
 date-modified: today
 date-format: long
 draft: true
