@@ -3,6 +3,7 @@ title: "A Sample Quarto Notebook"
 format: 
     html: default
     pdf: default
+jupyter: python3
 author: Me, Scientist
 theme: flatly
 toc: true
@@ -116,7 +117,7 @@ my_array + a_third_array
 
 Often times data is not user-entered. It is, instead, pulled from an external source or directly from a sensor/instrument. The `{pandas}` module provides functionality for that. Let's read in a data set on the compressive strength of concrete made from different mixing parameters. The [raw data is available here](https://github.com/esvs2202/Concrete-Compressive-Strength-Prediction/blob/main/dataset/concrete_data.csv).
 
-```{r}
+```{python}
 concrete_df = pd.read_csv("https://raw.githubusercontent.com/esvs2202/Concrete-Compressive-Strength-Prediction/main/dataset/concrete_data.csv")
 
 concrete_df
