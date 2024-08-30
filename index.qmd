@@ -1,5 +1,69 @@
 ---
-title: "Untitled"
-format: html
+title: "SC2XX: Scientific Computing"
+format: 
+    html: default
+    pdf: default
+theme: flatly
+toc: true
+date: August 30,  2024
+date-modified: today
+date-format: long
+draft: true
 ---
+
+## About
+
+This is a homepage for *SCI2XX: Scientific Computing* at Southern New Hampshire University, while it is in development. The development of this course is in service of multiple goals:
+
++ to provide SNHU students with exposure to computational tools for solving problems numerically
++ to provide SNHU students with an early exposure to the importance of transparent and reproducible analyses
++ to provide SNHU students with a foundation in collaborative version control, via GitHub
++ to be a foundational course in the three-course certificate in *scientific computing* for students across a wide array of disciplines and who want to approach their field from a quantitative lens.
+
+This project is being led by Dr. David Guo (Aeronautical Engineering) and Dr. Adam Gilbert (Mathematics).
+
+## Course Objectives/Competencies
+
+At current, we have three main course objectives.
+
+1. **Develop Skills in Transparent and Reproducible Analyses:** By the end of the course, students will be able to use Quarto Notebooks and Python to conduct and document transparent, reproducible analyses, effectively communicating their methods and results through integrated narratives and multiple output formats.
+
+2. **Apply Computational Methods to Solve Real-World Problems:** Students will demonstrate the ability to apply computational techniques and tools to analyze and solve practical problems, enhancing their understanding of key concepts in mathematics, the sciences, and engineering through hands-on projects and assignments.
+
+3. **Utilize Version Control and Collaboration Tools:** Students will gain proficiency in using GitHub for version control, project management, and collaboration, enabling them to work efficiently on group projects and contribute to open-source scientific computing projects.
+
+## List of Topics
+
+Additionally, we have the following list of proposed topics at this time.
+
+**Class Number** | **Topic** | **Assignment**
+---|---|---
+1 | Introduction <br/> Software Overview <br/> Create GitHub Account | Software Setup: <br/> ~ Python <br/>  ~ Git <br/> ~ Positron IDE 
+2 | Link Positron and GitHub <br/> My first repo <br/> My first Quarto document <br/> ~ YAML basics (title and output format) <br/> ~ Text "cells" <br/> ~ Code "chunks" <br/> ~ Rendering | Quarto YAML and Markdown Practice
+3 | Python Basics Crash-Course (I) <br/> ~ Arithmetic <br/> ~ Variable assignment <br/> ~ Calculations with variables <br/> ~ Data types <br/> ~ Working with lists | Comment Quarto Notebook from Class and Commit/Push to GitHub
+4 | Python Basics Crash-Course (II) <br/> ~ Importing Python Modules <br/> ~ `{numpy}` -- arrays and operations <br/> ~ Vectorized Operations <br/> ~ `{pandas}` -- data frames <br/> ~ `{matplotlib}` and `{seaborn}` | 
+5 | Quarto, YAML, and Markdown Crash-Course (I) <br/> ~ Additional output formats <br/> ~ Author(s), date(s), themes, and more <br/> ~ Headers, paragraphs, and free-text <br/> ~ Bulleted and numbered lists <br/> ~ Callout boxes | 
+6 | Python Basics Crash-Course (III) <br/> ~ Conditional statements <br/> ~ Filtering and subsetting <br/> ~ Looping (`for` and `while`) | **HW 1: Quarto and Python Foundations**
+7 | Quarto, YAML, and Markdown Crash-Course (II) <br/> ~ Global and local code controls <br/> ~ Callout boxes <br/> ~ Inline code | 
+8 | GitHub Pages Portfolios (I) <br/> ~ Create a `username.github.io` repo <br/> ~ Activated *pages* on *main* <br/> ~ Edit `index.md` to outline landing page | Add to your GitHub pages site
+9 | GitHub Pages Portfolios (II) <br/> ~ Hyperlinks <br/> ~ Linking to rendered reports <br/> ~ Creating and including more pages | 
+10 | Creating your own Python functions | 
+11 | Data Visualization (I) | 
+12 | Data Visualization (II) | 
+13 | Numerical Solutions to Algebraic Equations | 
+14 | Numerical Solutions to Systems of Equations | 
+15 | Case Study: Applications of Numerical Solutions to Equations and Systems | 
+16 | Case Study (Cont'd): Applications of Numerical Solutions
+17 | Curve-Fitting | 
+18 | Case Study: Applications of Curve-Fitting | 
+19 | Case Study (Cont'd): Applications of Curve-Fitting | 
+20 | Optimization and Linear Programming Problems | 
+21 | Optimization and Linear Programming in Python | 
+22 | Case Study: Applications of Optimization and Linear Programming | 
+23 | Case Study (Cont'd): Applications of Optimization and Linear Programming | 
+24 | Simulations and Agent-Based Models (I) | 
+25 | Simulations and Agent-Based Models (II) | 
+26 | Case Study: Applications of Simulations | 
+27 | Case Study (Cont'd): Applications of Simulations | 
+28+ | Final Projects and Debrief | 
 

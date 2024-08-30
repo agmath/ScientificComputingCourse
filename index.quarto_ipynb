@@ -1,0 +1,43 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"SC2XX: Scientific Computing\"\n",
+        "format: html\n",
+        "jupyter: python3\n",
+        "theme: flatly\n",
+        "toc: true\n",
+        "date: August 30,  2024\n",
+        "date-modified: today\n",
+        "date-format: long\n",
+        "---\n",
+        "\n",
+        "\n",
+        "## About\n",
+        "\n",
+        "This is a homepage for *SCI2XX: Scientific Computing* at Southern New Hampshire University, while it is in development. The development of this course is in service of multiple goals:\n",
+        "\n",
+        "+ to provide SNHU students with exposure to computational tools for solving problems numerically\n",
+        "+ to provide SNHU students with an early exposure to the importance of transparent and reproducible analyses\n",
+        "+ to provide SNHU students with a foundation in collaborative version control, via GitHub\n",
+        "+ to be a foundational course in the three-course certificate in *scientific computing* for students across a wide array of disciplines and who want to approach their field from a quantitative lens.\n",
+        "\n",
+        "This project is being led by Dr. David Guo (Aeronautical Engineering) and Dr. Adam Gilbert (Mathematics)."
+      ],
+      "id": "eacffde7"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/adamgilbert/.pyenv/versions/3.9.18/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
