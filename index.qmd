@@ -5,7 +5,7 @@ format:
     pdf: default
 theme: flatly
 toc: true
-date: August 30,  2024
+date: August 39,  2024
 date-modified: today
 date-format: long
 draft: true
