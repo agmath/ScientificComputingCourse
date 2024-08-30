@@ -7,7 +7,7 @@ jupyter: python3
 author: Me, Scientist
 theme: flatly
 toc: true
-date: August 30, 2024
+date: August 29, 2024
 date-modified: today
 date-format: long
 ---
