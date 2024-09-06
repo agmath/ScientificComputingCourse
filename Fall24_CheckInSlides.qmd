@@ -1,0 +1,117 @@
+---
+title: "SNHU STEM-X: Scientific Computing"
+date: today
+date-format: long
+format: 
+  revealjs:
+    fontsize: 18pt
+    theme: sky
+    incremental: true
+author: 
+  - name: Adam Gilbert
+  - name: David Guo
+---
+
+## Summer 2024 Goals
+
+1. Craft a set of course outcomes/objectives for the SC200 (*Introduction to Scientific Computing*) course
+2. Use the outcomes to develop a detailed list of topics to cover throughout the course
+3. Construct a draft syllabus for the course, using the outcome and topics we've identified
+4. Write up a short "FYI" about our proposal that can be shared more broadly with the University Community
+
+## Summer 2024 Progress
+
+. . . 
+
+We are proud to report that we've completed items 1, 2, and part of 3 from the previous slide.
+
+## Summer 2024 Progress (Outcomes)
+
+. . . 
+
+**Develop Skills in Transparent and Reproducible Analyses:** By the end of the course, students will be able to use a notebook environment and widely-used computing language to conduct and document transparent, reproducible analyses, effectively communicating their methods and results through integrated narratives and multiple output formats.
+
+. . . 
+
+**Apply Computational Methods to Solve Real-World Problems:** Students will demonstrate the ability to apply computational techniques and tools to analyze and solve practical problems, enhancing their understanding of key concepts in mathematics, the sciences, and engineering through hands-on projects and assignments.
+
+. . . 
+
+**Utilize Version Control and Collaboration Tools:** Students will gain proficiency in using GitHub for version control, project management, and collaboration, enabling them to work efficiently on group projects and contribute to open-source scientific computing projects.
+
+## Summer 2024 Progress (Detailed Topics List)
+
+. . . 
+
+The detailed list of topics is a day-by-day schedule for what students will be encountering and working on
+
+. . .
+
+It's too much to share on a slide, but...
+
+. . . 
+
+**Introduction to Software:** The course begins with about 3 weeks of onramping with Python, Quarto Notebooks, and GitHub use
+
+. . . 
+
+**Professional Portfolio Development:** We spend a week helping students develop a professional, outward-facing portfolio, via GitHub Pages
+
+. . . 
+
+**More Advanced Python:** Students will have another week and a half on user-defined functions and data visualization in Python
+
+. . . 
+
+**Topics and Case Studies:** The remainder of the semester consists of cycles of four consecutive class meetings where, (i) students learn about a problem class and numerical functionality for solving problems of that class over two days, and (ii) students spend the remaining two days working on a real-world case study involving that problem class
+
+## Summer 2024 Progress (Problem Classes and Case Studies)
+
+1. Solving equations and systems of equations
+
+    + **Possible Case Study Context:**
+
+2. Curve-fitting
+
+    + **Possible Case Study Context:**
+
+3. Optimization and Linear programming
+
+    + **Possible Case Study Context:**
+
+4. Simulation and Agent-based Models
+    + **Possible Case Study Context:**
+
+## Intended Students and Outcomes
+
+. . . 
+
+**Who are we envisioning?** We hope to attract first and second year students who are interested in examining their disciplines through a quantitative lens and are interested in transparent and reproducible analyses.
+
+. . .
+
+**What we hope to prepare them for:** Students completing the course will leave with the following tangible skills
+
++ Clearly and concisely document a problem and solution within a notebook environment
++ Mix scientific computing (numerical methods) together with text explanations in a single notebook environment to produce truly transparent and reproducible analyses
++ Utilize GitHub for version-control and for collaboration
++ Possess a command of numerical methods and simulation techniques that they can apply to problems in their home disciplines
++ Have created a professional GitHub pages portfolio that they can utilize and add to for the remainder of their time at SNHU and beyond
+
+## Next Steps and Expected Challenges
+
+. . . 
+
+We have the following goals remaining from our Summer 2024 list 
+
+1. Finalize a draft syllabus for SC200 (*Introduction to Scientific Computing*)
+2. Write up a very short "FYI" about our proposal that can be shared more broadly with the University community
+
+. . .
+
+We have the following additional goals:
+
+1. Begin discussions, using the FYI document as a starting point, with faculty from other disciplines about whether their students could benefit from this course experience
+2. Help those faculty identify candidate courses within their degree program that could serve as a suitable *second-tier* course in our ultimate certificate in *Scientific Computing*
+3. Prepare for the SC200 course to go through the academic governance pipeline
+4. Investigate the feasibility of developing a three-course *certificate* and what structural barriers we may face in that effort
