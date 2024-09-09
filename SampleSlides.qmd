@@ -1,0 +1,98 @@
+---
+title: "Sample Slides"
+date: today
+date-format: long
+format: 
+  revealjs:
+    fontsize: 18pt
+    theme: sky
+    incremental: true
+author: 
+  - name: Adam Gilbert
+  - name: David Guo
+---
+
+## Purpose
+
+This slide deck shows implements the following items
+
+1. How to create numbered and bulleted lists (like this numbered list)
+2. How to force incremental reveals by using the triple dot (`. . . `)
+3. Creating hyperlinks
+4. Embedding images from a web URL and also embedding an image stored as a local file
+5. Using Python functonality to summarize data and produce visuals
+
+. . . 
+
+Inspecting the source code (the `SampleSlides.qmd` file) shows how to achieve each of the goals above
+
+## Creating Numbered and Bulleted Lists (Bullets)
+
+You saw how to create a numbered list on the previous slide. Below is a simple bulleted list.
+
++ Item 1
++ Item 2
++ Item 3
+
+In the source code, notice the triple dots (`. . . `) below which prevents the line below from being revealed until you progress the slide forward.
+
+. . .
+
+You can also nest items in your list by using whitespace and indentation. The empty line in the source code below is important -- removing it will remove the nested list structure.
+
++ Item 1
+
+    + Sub-item 1.1
+    + Sub-item 1.2
++ Item 2
++ Item 3
+
+    + Sub-item 3.1
+
+## Creating Hyperlinks
+
+If you want more details about how to create *Revealjs* slides in Quarto, here is [a link to the documentation](https://quarto.org/docs/presentations/revealjs/)
+
+## Embedding Images (URL)
+
+Below is an image from a URL on the web
+
+![Three images of elephants, showing how diverse the species is.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Elephant_Diversity.jpg/1920px-Elephant_Diversity.jpg)
+
+## Embedding Images (Local File)
+
+Below is an image from a file stored locally. 
+
+![Three images of elephants, showing how diverse the species is.](Elephant_Diversity.jpg)
+
+Note that the path to the file is relative to the location of this `qmd` source file. Since the image is stored in the same directory as the `qmd` source, we just need the name of the file.
+
+## Python Functionality for Summarizing Data
+
+One of the best advantages of Quarto is that it permits all aspects of an analysis, including data processing to be housed in a single file. This means complete transparency into the analysis done. Whereas alternative workflows, like doing an analysis in Excel and then pasting tables and charts into a document-writing software like Word or presentation software like Powerpoint, force the consumer to put blind trust in the analyst because the workflow is completely inaccessible.
+
+. . . 
+
+Below is code that reads in a data set and produces a set of summary statistics.
+
+```{python}
+import pandas as pd
+import numpy as np
+
+austin = pd.read_csv("https://raw.githubusercontent.com/agmath/agmath.github.io/master/data/classification/austin_zillow_data.csv")
+
+austin.groupby("city").agg({
+    "lotSizeSqFt" : [np.mean, np.median, np.std]
+}).reset_index()
+```
+
+## Python Functionality for Data Visualization
+
+```{python}
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.kdeplot(data = austin, x = "lotSizeSqFt", hue = "priceRange", fill = True, alpha = 0.5)
+plt.xscale("log")
+plt.show()
+```
