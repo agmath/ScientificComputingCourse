@@ -14,7 +14,7 @@ author:
 
 ## Summer 2024 Goals
 
-1. Craft a set of course outcomes/objectives for the SC200 (*Introduction to Scientific Computing*) course
+1. Craft a set of course outcomes/objectives for the SC2XX (*Introduction to Scientific Computing*) course
 2. Use the outcomes to develop a detailed list of topics to cover throughout the course
 3. Construct a draft syllabus for the course, using the outcome and topics we've identified
 4. Write up a short "Informational Sheel" about our proposal that can be shared more broadly with the University Community
