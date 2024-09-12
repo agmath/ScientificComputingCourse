@@ -14,7 +14,7 @@ draft: true
 
 ## About
 
-This is a homepage for SCI2XX (Introduction to Scientific Computing) at Southern New Hampshire University, while it is in development. The development of this course is in service of multiple goals:
+This is a homepage for SC2XX (Introduction to Scientific Computing) at Southern New Hampshire University, while it is in development. The development of this course is in service of multiple goals:
 
 + to provide SNHU students with exposure to computational tools for solving problems numerically
 + to provide SNHU students with an early exposure to the importance of transparent and reproducible analyses

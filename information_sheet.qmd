@@ -14,19 +14,19 @@ draft: true
 
 ## About
 
-This document is a very short informational sheet, designed to help faculty determine whether the SCI2XX (Introduction to Scientific Computing) course could be a good fit for students majoring in their degree programs. In particular, the document highlights the goal of creating a three-course *certificate* or *badge* in scientific computing here at SNHU.
+This document is a very short informational sheet, designed to help faculty determine whether the SC2XX (Introduction to Scientific Computing) course could be a good fit for students majoring in their degree programs. In particular, the document highlights the goal of creating a three-course *certificate* or *badge* in scientific computing here at SNHU.
 
 ## Three-Course Certificate/Badge
 
-Our ultimate goal is to develop a three-course certificate or badge in Scientific Computing, to be offered at SNHU. The three course sequence would consist of the foundational SCI2XX (Introduction to Scientific Computing) course, a discipline-specific computational course such as BIO422 (Bioinformatics) or MAT370 (Numerical Analysis), and finally a culminating experience in the vein of MAT440 (BIG Problems) where students develop a solution to a pertinent computational problem for a business, industry, or government partner. We envision the culminating course to be truly experiential and to give students a semi-controlled exposure to consulting work.
+Our ultimate goal is to develop a three-course certificate or badge in Scientific Computing, to be offered at SNHU. The three course sequence would consist of the foundational SC2XX (Introduction to Scientific Computing) course, a discipline-specific computational course such as BIO422 (Bioinformatics) or MAT370 (Numerical Analysis), and finally a culminating experience in the vein of MAT440 (BIG Problems) where students develop a solution to a pertinent computational problem for a business, industry, or government partner. We envision the culminating course to be truly experiential and to give students a semi-controlled exposure to consulting work.
 
 To complete the three-course certificate/badge, students complete 
 
-i) the foundational SCI2XX (Introduction to Scientific Computing) course
+i) the foundational SC2XX (Introduction to Scientific Computing) course
 ii) one second-tier partner course
 iii) the culminating experience
 
-### SCI2XX: Introduction to Scientific Computing
+### SC2XX: Introduction to Scientific Computing
 
 The Introduction to Scientific Computing course is expected to satisfy the ESTM Commons requirement. Major objectives covered in this foundational course include (i) experience with collaboration and version control with GitHub, (ii) experience applying numerical methods to solve problems with python, and (iii) experience conducting transparent and reproducible analyses via a notebook environment. You can [see more detail about the Introduction to Scientific Computing course here](https://agmath.github.io/ScientificComputingCourse/).
 
@@ -51,4 +51,4 @@ As an example student experience, we envision the following scenario being commo
 + During Caroline's senior year, they are involved in a group project with our partner ARMI where Caroline and their team are monitoring synthetic tissue growth in a lab environment and both constructing and anaysing models for the growth of of the tissue under slightly different conditions. Caroline and their group meet with a scientist from ARMI bi-weekly to present on the status of their project.
 + Caroline earns the Scientific Computing certificate/badge along with their degree and has offers to pursue a graduate degree while working in a research lab or to move directly into the workforce with a job as junior scientist.
 
-We are excited by the trajectory students will take through this certificate/badge experience. They'll gain foundational exposure to fundamental topics and tools in the SCI2XX course. They'll have an opportunity to learn about and apply computational methods in their home discipline. They'll have an opportunity to apply what they've learned to a real-world problem with implications for a partnering entity.
+We are excited by the trajectory students will take through this certificate/badge experience. They'll gain foundational exposure to fundamental topics and tools in the SC2XX course. They'll have an opportunity to learn about and apply computational methods in their home discipline. They'll have an opportunity to apply what they've learned to a real-world problem with implications for a partnering entity.
