@@ -68,3 +68,16 @@ Additionally, we have the following list of proposed topics at this time.
 27 | Case Study (Cont'd): Applications of Simulations | 
 28+ | Final Projects and Debrief | 
 
+## Next Steps
+
+We have the following goals remaining from our Summer 2024 list 
+
+1. Finalize a draft syllabus for SC200 (*Introduction to Scientific Computing*)
+2. Write up a very short "FYI" about our proposal that can be shared more broadly with the University community
+
+In addition to those goals listed above, we have the following new goals to be pursued throughout the Fall 2024 semester.
+
+1. Begin discussions, using the FYI document as a starting point, with faculty from other disciplines about whether their students could benefit from this course experience
+2. Help those faculty identify candidate courses within their degree program that could serve as a suitable *second-tier* course in our ultimate certificate in *Scientific Computing*
+3. Prepare for the SC200 course to go through the academic governance pipeline
+4. Investigate the feasibility of developing a three-course *certificate* and what structural barriers we may face in that effort
