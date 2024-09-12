@@ -1,5 +1,5 @@
 ---
-title: "SC2XX: Scientific Computing"
+title: "STEM-X: Scientific Computing"
 format: 
     html: default
     pdf: default
@@ -14,77 +14,25 @@ draft: true
 
 ## About
 
-This is a homepage for *SCI2XX: Scientific Computing* at Southern New Hampshire University, while it is in development. The development of this course is in service of multiple goals:
+This is a homepage for the SNHU STEM-X Proposal on an introductory course and potential certificate in scientific computing. This project is being led by Dr. David Guo (Aeronautical Engineering) and Dr. Adam Gilbert (Mathematics). You'll find semi-regular updates about the state of the project reflected on this page.
+ 
+## Major Components
 
-+ to provide SNHU students with exposure to computational tools for solving problems numerically
-+ to provide SNHU students with an early exposure to the importance of transparent and reproducible analyses
-+ to provide SNHU students with a foundation in collaborative version control, via GitHub
-+ to be a foundational course in the three-course certificate in *scientific computing* for students across a wide array of disciplines and who want to approach their field from a quantitative lens.
+The major components of this initiative include each of the following items:
 
-This project is being led by Dr. David Guo (Aeronautical Engineering) and Dr. Adam Gilbert (Mathematics).
+1. Development of a 200-level course on an Introduction to Scientific Computing
+2. Identification and collaboration with faculty partners in other disciplines to find discipline-specific courses that utilize computational methods
+3. Development of a culminating scientific computing experience in which students earn credit for applying computing techniques to solve a problem of interest for a partner
+4. Package items 1 - 3 into a three-course certificate in Scientific Computing which can be earned by SNHU students
 
-## Course Objectives/Competencies
+## Tier I: SC2XX Introduction to Scientific Computing
 
-At current, we have three main course objectives.
+The development of this course is the primary goal of this STEM-X proposal. We hope that demand for this course, and experience with scientific computing in general, will be a catalyst for the remaining proposal components. You can [see this page for the current status of the Introduction to Scientific Computing course](https://agmath.github.io/ScientificComputingCourse/IntroSciComputing.html).
 
-1. **Develop Skills in Transparent and Reproducible Analyses:** By the end of the course, students will be able to use Quarto Notebooks and Python to conduct and document transparent, reproducible analyses, effectively communicating their methods and results through integrated narratives and multiple output formats.
+## Tier 2: Identifying Partner Disciplines and Courses
 
-2. **Apply Computational Methods to Solve Real-World Problems:** Students will demonstrate the ability to apply computational techniques and tools to analyze and solve practical problems, enhancing their understanding of key concepts in mathematics, the sciences, and engineering through hands-on projects and assignments.
+We know that scientific computing techniques are leveraged across a variety of domains. This includes (but is not limited to) biology, engineering, operations research, etc. We seek to identify disciplines having a course which utilizes computational techniques for inclusion as part of an array of domain-specific courses serving as options for the second course in a Scientific Computing Certificate. We are drafting an informational sheet to be shared with interested faculty and degree programs. You can [see the current state of that informational sheet here](https://agmath.github.io/ScientificComputingCourse/information_sheet.html).
 
-3. **Utilize Version Control and Collaboration Tools:** Students will gain proficiency in using GitHub for version control, project management, and collaboration, enabling them to work efficiently on group projects and contribute to open-source scientific computing projects.
+## Tier 3: Partnership Experience and Certificate
 
-## List of Topics
-
-Additionally, we have the following list of proposed topics at this time.
-
-**Class Number** | **Topic** | **Assignment**
----|---|---
-1 | Introduction <br/> Software Overview <br/> Create GitHub Account | Software Setup: <br/> ~ Python <br/>  ~ Git <br/> ~ Positron IDE 
-2 | Link Positron and GitHub <br/> My first repo <br/> My first Quarto document <br/> ~ YAML basics (title and output format) <br/> ~ Text "cells" <br/> ~ Code "chunks" <br/> ~ Rendering | Quarto YAML and Markdown Practice
-3 | Python Basics Crash-Course (I) <br/> ~ Arithmetic <br/> ~ Variable assignment <br/> ~ Calculations with variables <br/> ~ Data types <br/> ~ Working with lists | Comment Quarto Notebook from Class and Commit/Push to GitHub
-4 | Python Basics Crash-Course (II) <br/> ~ Importing Python Modules <br/> ~ `{numpy}` -- arrays and operations <br/> ~ Vectorized Operations <br/> ~ `{pandas}` -- data frames <br/> ~ `{matplotlib}` and `{seaborn}` | 
-5 | Quarto, YAML, and Markdown Crash-Course (I) <br/> ~ Additional output formats <br/> ~ Author(s), date(s), themes, and more <br/> ~ Headers, paragraphs, and free-text <br/> ~ Bulleted and numbered lists <br/> ~ Callout boxes | 
-6 | Python Basics Crash-Course (III) <br/> ~ Conditional statements <br/> ~ Filtering and subsetting <br/> ~ Looping (`for` and `while`) | **HW 1: Quarto and Python Foundations**
-7 | Quarto, YAML, and Markdown Crash-Course (II) <br/> ~ Global and local code controls <br/> ~ Callout boxes <br/> ~ Inline code | 
-8 | GitHub Pages Portfolios (I) <br/> ~ Create a `username.github.io` repo <br/> ~ Activated *pages* on *main* <br/> ~ Edit `index.md` to outline landing page | Add to your GitHub pages site
-9 | GitHub Pages Portfolios (II) <br/> ~ Hyperlinks <br/> ~ Linking to rendered reports <br/> ~ Creating and including more pages | 
-10 | Creating your own Python functions | 
-11 | Data Visualization (I) | 
-12 | Data Visualization (II) | 
-13 | Numerical Solutions to Algebraic Equations | 
-14 | Numerical Solutions to Systems of Equations | 
-15 | Case Study: Applications of Numerical Solutions to Equations and Systems | 
-16 | Case Study (Cont'd): Applications of Numerical Solutions
-17 | Curve-Fitting | 
-18 | Case Study: Applications of Curve-Fitting | 
-19 | Case Study (Cont'd): Applications of Curve-Fitting | 
-20 | Optimization and Linear Programming Problems | 
-21 | Optimization and Linear Programming in Python | 
-22 | Case Study: Applications of Optimization and Linear Programming | 
-23 | Case Study (Cont'd): Applications of Optimization and Linear Programming | 
-24 | Simulations and Agent-Based Models (I) | 
-25 | Simulations and Agent-Based Models (II) | 
-26 | Case Study: Applications of Simulations | 
-27 | Case Study (Cont'd): Applications of Simulations | 
-28+ | Final Projects and Debrief | 
-
-## Additional Resources and Information
-
-We'll use this space to share additional resources and information associated with the Scientific Computing *course* and *certificate*. Each of the items listed below is a living draft and will continue to be updated.
-
-+ A [draft *Informational Sheet*](https://agmath.github.io/ScientificComputingCourse/information_sheet.html) to help potential partner disciplines decide if they'd like to pursue a track through the eventual Scientific Computing Certificate for students in their degree programs.
-+ A [short presentation on the state of our progress](https://agmath.github.io/ScientificComputingCourse/Fall24_CheckInSlides.html) as of September 18, 2024.
-
-## Next Steps
-
-We have the following goals remaining from our Summer 2024 list 
-
-1. Finalize a draft syllabus for SC200 (*Introduction to Scientific Computing*)
-2. Finalize our current draft "Informational Sheet" so that we can begin sharing it with potential partner disciplines
-
-In addition to those goals listed above, we have the following new goals to be pursued throughout the Fall 2024 semester.
-
-1. Begin discussions, using the "Informational Sheet" as a starting point, with faculty from other disciplines about whether their students could benefit from this course experience
-2. Help those faculty identify candidate courses within their degree program that could serve as a suitable *second-tier* course in our ultimate certificate in *Scientific Computing*
-3. Prepare for the SC200 course to go through the academic governance pipeline
-4. Investigate the feasibility of developing a three-course *certificate* and what structural barriers we may face in that effort
+It is important for students to gain experience working on problems with real-world implications and real-world urgency. In this third tier of our project, we seek to develop an experience where student teams serve in a semi-structured consulting role for a partnering entity. This partner could be a local business, a government agency, non-profit, etc. which needs help in solving a problem which will require teams to utilize computational methods, communicate their approach and progress regularly to the partner, and to deliver at least a partial solution on a timeline dictated by the partner. We have similar existing coursework at SNHU, like the MAT440: BIG Problems course or the work being done through Inkwell Studios. Once we begin engaging on this initiative, you'll be able to find a link to its current status here.
