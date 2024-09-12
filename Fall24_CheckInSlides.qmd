@@ -17,13 +17,13 @@ author:
 1. Craft a set of course outcomes/objectives for the SC200 (*Introduction to Scientific Computing*) course
 2. Use the outcomes to develop a detailed list of topics to cover throughout the course
 3. Construct a draft syllabus for the course, using the outcome and topics we've identified
-4. Write up a short "FYI" about our proposal that can be shared more broadly with the University Community
+4. Write up a short "Informational Sheel" about our proposal that can be shared more broadly with the University Community
 
 ## Summer 2024 Progress
 
 . . . 
 
-We are proud to report that we've completed items 1, 2, and part of 3 from the previous slide.
+We are proud to report that we've completed items 1, 2, and parts of 3 and 4 from the previous slide.
 
 ## Summer 2024 Progress (Outcomes)
 
@@ -93,9 +93,9 @@ It's too much to share on a slide, but...
 **What we hope to prepare them for:** Students completing the course will leave with the following tangible skills
 
 + Clearly and concisely document a problem and solution within a notebook environment
-+ Mix scientific computing (numerical methods) together with text explanations in a single notebook environment to produce truly transparent and reproducible analyses
++ Mix scientific computing (numerical methods) together with text explanations in a single notebook environment, producing truly transparent and reproducible analyses
 + Utilize GitHub for version-control and for collaboration
-+ Possess a command of numerical methods and simulation techniques that they can apply to problems in their home disciplines
++ Possess a command of several numerical methods and simulation techniques that they can apply to problems in their home disciplines
 + Have created a professional GitHub pages portfolio that they can utilize and add to for the remainder of their time at SNHU and beyond
 
 ## Next Steps and Expected Challenges
@@ -104,14 +104,14 @@ It's too much to share on a slide, but...
 
 We have the following goals remaining from our Summer 2024 list 
 
-1. Finalize a draft syllabus for SC200 (*Introduction to Scientific Computing*)
-2. Finalize our current draft "Informational Sheet" so that we can begin sharing it with potential partner disciplines
+1. Finalize a draft syllabus for SC2XX (Introduction to Scientific Computing)
+2. Finalize our current draft "Informational Sheet" so that we can begin sharing it with potential partner disciplines and faculty
 
 . . .
 
 We have the following additional goals:
 
-1. Begin discussions, using the FYI document as a starting point, with faculty from other disciplines about whether their students could benefit from this course experience
-2. Help those faculty identify candidate courses within their degree program that could serve as a suitable *second-tier* course in our ultimate certificate in *Scientific Computing*
-3. Prepare for the SC200 course to go through the academic governance pipeline
+1. Begin discussions with faculty from other disciplines about whether their students could benefit from this course experience
+2. Help those faculty identify candidate courses within their degree program that could serve as a suitable *second-tier* course in a certificate in *Scientific Computing*
+3. Prepare for the SC2XX course to go through the academic governance pipeline
 4. Investigate the feasibility of developing a three-course *certificate* and what structural barriers we may face in that effort
