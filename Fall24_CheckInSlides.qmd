@@ -105,7 +105,7 @@ It's too much to share on a slide, but...
 We have the following goals remaining from our Summer 2024 list 
 
 1. Finalize a draft syllabus for SC200 (*Introduction to Scientific Computing*)
-2. Write up a very short "FYI" about our proposal that can be shared more broadly with the University community
+2. Finalize our current draft "Informational Sheet" so that we can begin sharing it with potential partner disciplines
 
 . . .
 
