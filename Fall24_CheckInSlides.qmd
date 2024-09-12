@@ -69,18 +69,18 @@ It's too much to share on a slide, but...
 
 1. Solving equations and systems of equations
 
-    + **Possible Case Study Context:**
+    + **Possible Case Study Context:** Modeling traffic flow through rotaries
 
 2. Curve-fitting
 
-    + **Possible Case Study Context:**
+    + **Possible Case Study Context:** Modeling UN Votes by issue, country, and over time
 
 3. Optimization and Linear programming
 
-    + **Possible Case Study Context:**
+    + **Possible Case Study Context:** Transportation problems (warehousing and shipping)
 
 4. Simulation and Agent-based Models
-    + **Possible Case Study Context:**
+    + **Possible Case Study Context:** Dynamic population modeling with competitive and cooperative species
 
 ## Intended Students and Outcomes
 
