@@ -68,23 +68,6 @@ Additionally, we have the following list of proposed topics at this time.
 27 | Case Study (Cont'd): Applications of Simulations | 
 28+ | Final Projects and Debrief | 
 
-## Additional Resources and Information
-
-We'll use this space to share additional resources and information associated with the Scientific Computing *course* and *certificate*. Each of the items listed below is a living draft and will continue to be updated.
-
-+ A [draft *Informational Sheet*](https://agmath.github.io/ScientificComputingCourse/information_sheet.html) to help potential partner disciplines decide if they'd like to pursue a track through the eventual Scientific Computing Certificate for students in their degree programs.
-+ A [short presentation on the state of our progress](https://agmath.github.io/ScientificComputingCourse/Fall24_CheckInSlides.html) as of September 18, 2024.
-
 ## Next Steps
 
-We have the following goals remaining from our Summer 2024 list 
-
-1. Finalize a draft syllabus for SC2XX (Introduction to Scientific Computing)
-2. Finalize our current draft "Informational Sheet" so that we can begin sharing it with potential partner disciplines
-
-In addition to those goals listed above, we have the following new goals to be pursued throughout the Fall 2024 semester.
-
-1. Begin discussions, using the "Informational Sheet" as a starting point, with faculty from other disciplines about whether their students could benefit from this course experience
-2. Help those faculty identify candidate courses within their degree program that could serve as a suitable *second-tier* course in our ultimate certificate in *Scientific Computing*
-3. Prepare for the SC200 course to go through the academic governance pipeline
-4. Investigate the feasibility of developing a three-course *certificate* and what structural barriers we may face in that effort
+We are working on translating the information on this page into a formal syllabus. Once the syllabus has been drafted, we'll prepare for the SC2XX course to move through Academic Governance.
