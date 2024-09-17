@@ -17,13 +17,11 @@ author:
 1. Craft a set of course outcomes/objectives for the SC2XX (*Introduction to Scientific Computing*) course
 2. Use the outcomes to develop a detailed list of topics to cover throughout the course
 3. Construct a draft syllabus for the course, using the outcome and topics we've identified
-4. Write up a short "Informational Sheel" about our proposal that can be shared more broadly with the University Community
+4. Write up a short "Informational Sheet" about our proposal that can be shared more broadly with the University Community
 
-## Summer 2024 Progress
+. . .
 
-. . . 
-
-We are proud to report that we've completed items 1, 2, and parts of 3 and 4 from the previous slide.
+**Summer 2024 Progress:** We are proud to report that we've completed items 1, 2, and parts of 3 and 4
 
 ## Summer 2024 Progress (Outcomes)
 
