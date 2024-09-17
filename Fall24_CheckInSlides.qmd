@@ -67,18 +67,35 @@ It's too much to share on a slide, but...
 
 1. Solving equations and systems of equations
 
+:::{.nonincremental}
+
     + **Possible Case Study Context:** Modeling traffic flow through rotaries
+
+:::
 
 2. Curve-fitting
 
+:::{.nonincremental}
+
     + **Possible Case Study Context:** Modeling UN Votes by issue, country, and over time
+
+:::
 
 3. Optimization and Linear programming
 
+:::{.nonincremental}
+
     + **Possible Case Study Context:** Transportation problems (warehousing and shipping)
 
+:::
+
 4. Simulation and Agent-based Models
+
+:::{.nonincremental}
+
     + **Possible Case Study Context:** Dynamic population modeling with competitive and cooperative species
+
+:::
 
 ## Intended Students and Outcomes
 
@@ -90,11 +107,11 @@ It's too much to share on a slide, but...
 
 **What we hope to prepare them for:** Students completing the course will leave with the following tangible skills
 
-+ Clearly and concisely document a problem and solution within a notebook environment
-+ Mix scientific computing (numerical methods) together with text explanations in a single notebook environment, producing truly transparent and reproducible analyses
-+ Utilize GitHub for version-control and for collaboration
-+ Possess a command of several numerical methods and simulation techniques that they can apply to problems in their home disciplines
-+ Have created a professional GitHub pages portfolio that they can utilize and add to for the remainder of their time at SNHU and beyond
++ **(Document Analyses)** Clearly and concisely document a problem and solution within a notebook environment
++ **(Full Reproducibility)** Mix scientific computing (numerical methods) together with text explanations in a single notebook environment, producing truly transparent and reproducible analyses
++ **(Version Control)** Utilize GitHub for version-control and for collaboration
++ **(Numerical Techniques)** Possess a command of several numerical methods and simulation techniques that they can apply to problems in their home disciplines
++ **(Portfolio)** Have created a professional GitHub pages portfolio that they can utilize and add to for the remainder of their time at SNHU and beyond
 
 ## Next Steps and Expected Challenges
 
