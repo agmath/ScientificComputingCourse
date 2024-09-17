@@ -25,7 +25,7 @@ The major components of this initiative include each of the following items:
 3. Development of a culminating scientific computing experience in which students earn credit for applying computing techniques to solve a problem of interest for a partner
 4. Package items 1 - 3 into a three-course certificate in Scientific Computing which can be earned by SNHU students
 
-### Tier I: SC2XX Introduction to Scientific Computing
+### Tier 1: SC2XX Introduction to Scientific Computing
 
 The development of this course is the primary goal of this STEM-X proposal. We hope that demand for this course, and experience with scientific computing in general, will be a catalyst for the remaining proposal components. You can [see this page for the current status of the Introduction to Scientific Computing course](https://agmath.github.io/ScientificComputingCourse/IntroSciComputing.html).
 
