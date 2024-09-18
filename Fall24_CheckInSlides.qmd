@@ -67,35 +67,28 @@ It's too much to share on a slide, but...
 
 1. Solving equations and systems of equations
 
-:::{.nonincremental}
+. . . 
 
-    + **Possible Case Study Context:** Modeling traffic flow through rotaries
-
-:::
+**Possible Case Study Context:** Modeling traffic flow through rotaries
 
 2. Curve-fitting
 
-:::{.nonincremental}
+. . . 
 
-    + **Possible Case Study Context:** Modeling UN Votes by issue, country, and over time
-
-:::
+**Possible Case Study Context:** Modeling UN Votes by issue, country, and over time
 
 3. Optimization and Linear programming
 
-:::{.nonincremental}
+. . .
 
-    + **Possible Case Study Context:** Transportation problems (warehousing and shipping)
-
-:::
+**Possible Case Study Context:** Transportation problems (warehousing and shipping)
 
 4. Simulation and Agent-based Models
 
-:::{.nonincremental}
+. . .
 
-    + **Possible Case Study Context:** Dynamic population modeling with competitive and cooperative species
+**Possible Case Study Context:** Dynamic population modeling with competitive and cooperative species
 
-:::
 
 ## Intended Students and Outcomes
 
